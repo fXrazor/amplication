@@ -336,8 +336,8 @@
     "yup": "^0.32.11"
   },
   "engines": {
-    "node": "^22.13.0",
-    "npm": "^9.0.0"
+    "node": "^22.20.0",
+    "npm": "^10.9.3"
   },
   "bugs": {
     "url": "https://github.com/amplication/amplication/issues"
